@@ -4,20 +4,19 @@ body {
 }
 a{
     text-decoration: none;
-    color:white
+    color:white;
 }
 a:hover{
     text-decoration: underline;
-    color:gainsboro
+    color:gainsboro;
 } 
-}
 
 .menu {
     background: white;
 }
 
 .menu ul {
-    display: flex;
+ display: flex;
  flex-direction: row;
  justify-content: space-between;
 }
