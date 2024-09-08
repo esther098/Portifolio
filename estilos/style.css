@@ -6,14 +6,13 @@ body {
 }
 
 .menu {
-    background: blue;
+    background: light-blue;
 }
 
 .menu ul {
- display: flex;
- flex-direction: row;
- justify-content: space-between;
-
+   display:flex;
+ flex-direction:row;
+ justify-content:space-between;
 }
 
 .menu li {
