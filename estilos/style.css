@@ -13,6 +13,7 @@ body {
    display: flex;
  flex-direction: row;
  justify-content: space-around;
+  font-size: 40px;
 }
 
 .menu li {
