@@ -2,7 +2,7 @@ body {
      background-color: pink; 
     background-image: url(https://cdn.pixabay.com/photo/2017/06/10/14/26/background-2389968_1280.jpg);
     background-repeat: no-repeat; 
-    background-size: auto;
+    background-size: 100%;
 }
 
 .menu {
