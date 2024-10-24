@@ -1,0 +1,23 @@
+div {  
+    
+    background-color: rgb(224, 176, 240);
+    width: 300px;
+    border: 15px solid rgb(104, 33, 37);
+    padding: 50px;
+    margin: 20px;
+    text-align: justify;
+  }
+
+  h2 {
+    font-family: Helvetica, sans-serif;
+  }
+  h1 {
+    font-family: Helvetica, sans-serif;
+  }
+
+  body {
+    background-color: rgb(87, 64, 171); 
+   background-image: url(https://i.pinimg.com/enabled_lo/736x/15/65/47/156547bd40dc464d6bee4309450c8d11.jpg);
+   background-repeat: no-repeat; 
+   background-size: 100%;
+  }
