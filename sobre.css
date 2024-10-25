@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(91, 32, 119); 
+   background-image: url(https://i.pinimg.com/originals/31/01/2d/31012de9e884a94766331be0418a5cd1.png);
+   background-repeat: no-repeat; 
+   background-size: 100%;
+
+h1{text-align: center;}
+
+.p1{
+    text-align: center;
+    line-height: 1.8;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+    font-family: Helvetica;
+    font-size: 22px;
+  
+}
+
+}
