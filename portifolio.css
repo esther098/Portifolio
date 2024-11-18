@@ -1,0 +1,29 @@
+ /* Estilos gerais */
+ body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Estilo do layout da imagem e do texto usando Flexbox */
+.content {
+  display: flex;
+  justify-content: flex-start; /* Alinha no topo */
+  align-items: flex-start;     /* Garante o alinhamento ao topo */
+  margin: 20px;
+}
+
+img {
+  width: 40%;           /* Define a largura da imagem */
+  margin-right: 20px;   /* Espaço entre a imagem e o texto */
+}
+
+p {
+  text-align: justify;  /* Justifica o texto */
+}
