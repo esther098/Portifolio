@@ -18,6 +18,9 @@ h2 {
   align-items: flex-start;     /* Garante o alinhamento ao topo */
   margin: 20px;
 }
+.textos {
+ display: block;
+}
 
 img {
   width: 40%;           /* Define a largura da imagem */
